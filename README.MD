@@ -29,7 +29,7 @@ O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de
 
 ## Visualização
 
-Para visualizar o projeto, você pode acessar [este link](https://github.com/seu-usuario/seu-repositorio).
+Para visualizar o projeto, você pode acessar [este link](https://joseook.github.io/bmi-calculator/components/).
 
 ## Créditos
 
